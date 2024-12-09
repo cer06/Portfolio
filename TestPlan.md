@@ -92,4 +92,4 @@ This document focuses on testing the Login feature, including both functional an
 - Test Plan Document (this file).  
 - Test Cases (in Excel/CSV format).  
 - Test Execution Report.  
-- Bug Report (if applicable).  
+- Bug Report.  
